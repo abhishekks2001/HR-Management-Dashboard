@@ -3,6 +3,8 @@ using MS Excel
 ## Overview
 This project is an HR Management Dashboard designed for analyzing employee data and tracking various HR metrics. The dashboard provides insights into employee demographics, turnover rates, tenure analysis, and more. It is built using Microsoft Excel and utilizes Power Query, Power Pivot, and PivotTables for data manipulation and visualization.
 
+![hr data](https://github.com/abhishekks2001/HR-Management-Dashboard/assets/156594626/37263d85-7404-4eb4-87c7-f492c858dead)
+
 
 ## Dashboard Features
 1. Total Active Employees by date Visualization: Interactive charts display the total number of active employees over time and by ethnic group, allowing for easy trend analysis.
